@@ -1,0 +1,3631 @@
+fileFormatVersion: 2
+guid: 6877f21918bab2346a0e855d96327f29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4796473766055972299
+    second: 5-solid_0
+  - first:
+      213: 8238224091709060620
+    second: 5-solid_1
+  - first:
+      213: 7896832378101988923
+    second: 5-solid_2
+  - first:
+      213: 1883397562666323164
+    second: 5-solid_3
+  - first:
+      213: 5455094849441262273
+    second: 5-solid_4
+  - first:
+      213: 757465167968433442
+    second: 5-solid_5
+  - first:
+      213: -7628884894472512765
+    second: 5-solid_6
+  - first:
+      213: -453297595628567969
+    second: 5-solid_7
+  - first:
+      213: 7730972326510655848
+    second: 5-solid_8
+  - first:
+      213: 6059991442404289633
+    second: 5-solid_9
+  - first:
+      213: 6165757747909720026
+    second: 5-solid_10
+  - first:
+      213: -8631295021024329141
+    second: 5-solid_11
+  - first:
+      213: -7965094885661350363
+    second: 5-solid_12
+  - first:
+      213: -7643887958449066088
+    second: 5-solid_13
+  - first:
+      213: 3354708937131885066
+    second: 5-solid_14
+  - first:
+      213: -3600538109323399040
+    second: 5-solid_15
+  - first:
+      213: -5609420241479743564
+    second: 5-solid_16
+  - first:
+      213: 4254742455622610221
+    second: 5-solid_17
+  - first:
+      213: 49135537984594672
+    second: 5-solid_18
+  - first:
+      213: -4026330660025383188
+    second: 5-solid_19
+  - first:
+      213: 2972643758854783245
+    second: 5-solid_20
+  - first:
+      213: 3009043134488135963
+    second: 5-solid_21
+  - first:
+      213: 2356629668421026480
+    second: 5-solid_22
+  - first:
+      213: 562322752891034915
+    second: 5-solid_23
+  - first:
+      213: 755197496801933662
+    second: 5-solid_24
+  - first:
+      213: -325012540632635565
+    second: 5-solid_25
+  - first:
+      213: -3389126787854084784
+    second: 5-solid_26
+  - first:
+      213: -1874213720226603156
+    second: 5-solid_27
+  - first:
+      213: -8716066443027867681
+    second: 5-solid_28
+  - first:
+      213: -7942636251275132566
+    second: 5-solid_29
+  - first:
+      213: 5433577225880684168
+    second: 5-solid_30
+  - first:
+      213: -5818608060524400583
+    second: 5-solid_31
+  - first:
+      213: 8041138761370613507
+    second: 5-solid_32
+  - first:
+      213: 1035374814042954498
+    second: 5-solid_33
+  - first:
+      213: 7281465047671688691
+    second: 5-solid_34
+  - first:
+      213: -6215000473322213456
+    second: 5-solid_35
+  - first:
+      213: -9169573959736903263
+    second: 5-solid_36
+  - first:
+      213: -1494998966715474448
+    second: 5-solid_37
+  - first:
+      213: -5064224927329611544
+    second: 5-solid_38
+  - first:
+      213: -4403601378506369846
+    second: 5-solid_39
+  - first:
+      213: 4677454290392308062
+    second: 5-solid_40
+  - first:
+      213: 5332596816508887018
+    second: 5-solid_41
+  - first:
+      213: -5239239268348557252
+    second: 5-solid_42
+  - first:
+      213: 2926891614750237576
+    second: 5-solid_43
+  - first:
+      213: 6127047316268481848
+    second: 5-solid_44
+  - first:
+      213: 5651177936112853072
+    second: 5-solid_45
+  - first:
+      213: -3794473498463854581
+    second: 5-solid_46
+  - first:
+      213: -8634478252370302019
+    second: 5-solid_47
+  - first:
+      213: 5814023323114708210
+    second: 5-solid_48
+  - first:
+      213: 8061486393744673618
+    second: 5-solid_49
+  - first:
+      213: -3273351570145404815
+    second: 5-solid_50
+  - first:
+      213: -3186708120105755118
+    second: 5-solid_51
+  - first:
+      213: -3387760741941472007
+    second: 5-solid_52
+  - first:
+      213: -7522683625061459929
+    second: 5-solid_53
+  - first:
+      213: -4880203266258104702
+    second: 5-solid_54
+  - first:
+      213: 5699855416795166857
+    second: 5-solid_55
+  - first:
+      213: 1113459349185831403
+    second: 5-solid_56
+  - first:
+      213: -6290339755394722293
+    second: 5-solid_57
+  - first:
+      213: -2717553463881597939
+    second: 5-solid_58
+  - first:
+      213: 8069785366238184308
+    second: 5-solid_59
+  - first:
+      213: -7886325182526420343
+    second: 5-solid_60
+  - first:
+      213: -1812854993624357779
+    second: 5-solid_61
+  - first:
+      213: -7964139499359289233
+    second: 5-solid_62
+  - first:
+      213: -8070359652178191537
+    second: 5-solid_63
+  - first:
+      213: 842993895320296428
+    second: 5-solid_64
+  - first:
+      213: 8187883712424244625
+    second: 5-solid_65
+  - first:
+      213: -2389023569627180031
+    second: 5-solid_66
+  - first:
+      213: -8397881351242904449
+    second: 5-solid_67
+  - first:
+      213: 3765833747826493641
+    second: 5-solid_68
+  - first:
+      213: 5749629030998036253
+    second: 5-solid_69
+  - first:
+      213: -7293812294496350608
+    second: 5-solid_70
+  - first:
+      213: 3273939905102156403
+    second: 5-solid_71
+  - first:
+      213: 3453046332406390760
+    second: 5-solid_72
+  - first:
+      213: 5430147028828849021
+    second: 5-solid_73
+  - first:
+      213: 8693865557631895983
+    second: 5-solid_74
+  - first:
+      213: 4185669992045421215
+    second: 5-solid_75
+  - first:
+      213: 7962733886208074238
+    second: 5-solid_76
+  - first:
+      213: -1263307305128155791
+    second: 5-solid_77
+  - first:
+      213: 3456752351764093128
+    second: 5-solid_78
+  - first:
+      213: 82789937207397814
+    second: 5-solid_79
+  - first:
+      213: 6271189808161846235
+    second: 5-solid_80
+  - first:
+      213: -6041859169257403664
+    second: 5-solid_81
+  - first:
+      213: 9130097854687466540
+    second: 5-solid_82
+  - first:
+      213: 2697606202403112405
+    second: 5-solid_83
+  - first:
+      213: -8816071843096159684
+    second: 5-solid_84
+  - first:
+      213: 8581005034448276479
+    second: 5-solid_85
+  - first:
+      213: -4560837351283230047
+    second: 5-solid_86
+  - first:
+      213: -3187083131414660716
+    second: 5-solid_87
+  - first:
+      213: 3477093637030547008
+    second: 5-solid_88
+  - first:
+      213: 3998072713098152191
+    second: 5-solid_89
+  - first:
+      213: 8448991780315694674
+    second: 5-solid_90
+  - first:
+      213: -3244133367775703048
+    second: 5-solid_91
+  - first:
+      213: 5253696256962546813
+    second: 5-solid_92
+  - first:
+      213: 4873229790060932725
+    second: 5-solid_93
+  - first:
+      213: -4313550106632671086
+    second: 5-solid_94
+  - first:
+      213: -4334621193893244141
+    second: 5-solid_95
+  - first:
+      213: 5714459230403356401
+    second: 5-solid_96
+  - first:
+      213: 9135945508338406716
+    second: 5-solid_97
+  - first:
+      213: -7212548951971913261
+    second: 5-solid_98
+  - first:
+      213: -9197243019926999610
+    second: 5-solid_99
+  - first:
+      213: 6823499474553156241
+    second: 5-solid_100
+  - first:
+      213: -9098830870913828345
+    second: 5-solid_101
+  - first:
+      213: -6395530680848818215
+    second: 5-solid_102
+  - first:
+      213: -8383120448396950245
+    second: 5-solid_103
+  - first:
+      213: -3224221853848554436
+    second: 5-solid_104
+  - first:
+      213: -681665411060000872
+    second: 5-solid_105
+  - first:
+      213: -5105524454262701453
+    second: 5-solid_106
+  - first:
+      213: -101458357196455739
+    second: 5-solid_107
+  - first:
+      213: -3653226837282682393
+    second: 5-solid_108
+  - first:
+      213: 5800752203219607889
+    second: 5-solid_109
+  - first:
+      213: 196812075732346160
+    second: 5-solid_110
+  - first:
+      213: -2205343455975012848
+    second: 5-solid_111
+  - first:
+      213: 9202675466527619124
+    second: 5-solid_112
+  - first:
+      213: 1034283073341671828
+    second: 5-solid_113
+  - first:
+      213: -1525961726347038232
+    second: 5-solid_114
+  - first:
+      213: 6675685715052805489
+    second: 5-solid_115
+  - first:
+      213: 8942884744714495500
+    second: 5-solid_116
+  - first:
+      213: 4644151737670835916
+    second: 5-solid_117
+  - first:
+      213: -1283522301545571329
+    second: 5-solid_118
+  - first:
+      213: 6268345751390864680
+    second: 5-solid_119
+  - first:
+      213: -291499007503569722
+    second: 5-solid_120
+  - first:
+      213: -8489423017632842962
+    second: 5-solid_121
+  - first:
+      213: 8974617997559921310
+    second: 5-solid_122
+  - first:
+      213: 7591708478219701763
+    second: 5-solid_123
+  - first:
+      213: 7807085493296847485
+    second: 5-solid_124
+  - first:
+      213: 1319575189976234391
+    second: 5-solid_125
+  - first:
+      213: 1422170369974662130
+    second: 5-solid_126
+  - first:
+      213: -4655925972269449015
+    second: 5-solid_127
+  - first:
+      213: -2106477702206130425
+    second: 5-solid_128
+  - first:
+      213: -7337740311669839148
+    second: 5-solid_129
+  - first:
+      213: 4057164846976098156
+    second: 5-solid_130
+  - first:
+      213: 8051577638966869406
+    second: 5-solid_131
+  - first:
+      213: 425976166514721171
+    second: 5-solid_132
+  - first:
+      213: 8176276024360683979
+    second: 5-solid_133
+  - first:
+      213: 759384930971154961
+    second: 5-solid_134
+  - first:
+      213: -2402931067628143940
+    second: 5-solid_135
+  - first:
+      213: 6111839383616396399
+    second: 5-solid_136
+  - first:
+      213: -1412891193179519811
+    second: 5-solid_137
+  - first:
+      213: 7236870873405614730
+    second: 5-solid_138
+  - first:
+      213: 273424641099023782
+    second: 5-solid_139
+  - first:
+      213: -7815968665863876990
+    second: 5-solid_140
+  - first:
+      213: 1056690866941884113
+    second: 5-solid_141
+  - first:
+      213: 6712087127234810766
+    second: 5-solid_142
+  - first:
+      213: -6154151555136303655
+    second: 5-solid_143
+  - first:
+      213: 4479719883267886455
+    second: 5-solid_144
+  - first:
+      213: 5665532997836159559
+    second: 5-solid_145
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 5-solid_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 876
+        width: 702
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f0c7c5808f6db0800000000000000
+      internalID: -4796473766055972299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 832
+        width: 203
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063266d92d045270800000000000000
+      internalID: 8238224091709060620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_2
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 882
+        width: 188
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e729b653f279d60800000000000000
+      internalID: 7896832378101988923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_3
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 1005
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc0095ca1c232a10800000000000000
+      internalID: 1883397562666323164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_4
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1004
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca620dfcd364bb40800000000000000
+      internalID: 5455094849441262273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_5
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 884
+        width: 161
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2257d7a9e8e038a00800000000000000
+      internalID: 757465167968433442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_6
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 924
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b5f98ab91c02690800000000000000
+      internalID: -7628884894472512765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_7
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 963
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52450b0d3095b9f0800000000000000
+      internalID: -453297595628567969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_8
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 846
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869fa0ade5ee94b60800000000000000
+      internalID: 7730972326510655848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_9
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 862
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c2a621c1a691450800000000000000
+      internalID: 6059991442404289633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_10
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 873
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7754f010c219550800000000000000
+      internalID: 6165757747909720026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_11
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 882
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424f30b8ea773880800000000000000
+      internalID: -8631295021024329141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_12
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 876
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526efd1076c467190800000000000000
+      internalID: -7965094885661350363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_13
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 872
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fe1cd96647be590800000000000000
+      internalID: -7643887958449066088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_14
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 873
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02039a11025e8e20800000000000000
+      internalID: 3354708937131885066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_15
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 805
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b5818aa1580ec0800000000000000
+      internalID: -3600538109323399040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_16
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 866
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7c6b6a2065722b0800000000000000
+      internalID: -5609420241479743564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_17
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 855
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2da82688b1eb0b30800000000000000
+      internalID: 4254742455622610221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_18
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 862
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f26b6fe2809ea000800000000000000
+      internalID: 49135537984594672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_19
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 763
+        width: 29
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce64cecd8999f18c0800000000000000
+      internalID: -4026330660025383188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_20
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 812
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01425abfb3f04920800000000000000
+      internalID: 2972643758854783245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_21
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 822
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b194ef8c9c442c920800000000000000
+      internalID: 3009043134488135963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_22
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 712
+        width: 138
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2c16d823e64b020800000000000000
+      internalID: 2356629668421026480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_23
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 766
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d903f7095cdc700800000000000000
+      internalID: 562322752891034915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_24
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 796
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b4244f100b7a00800000000000000
+      internalID: 755197496801933662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_25
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 796
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576b08f0d25d7bf0800000000000000
+      internalID: -325012540632635565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_26
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 723
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055523f842767f0d0800000000000000
+      internalID: -3389126787854084784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_27
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 776
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fdabc2d847df5e0800000000000000
+      internalID: -1874213720226603156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_28
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 593
+        width: 312
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd71f90ffbf4a0780800000000000000
+      internalID: -8716066443027867681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_29
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 604
+        width: 224
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a610b9e496616c190800000000000000
+      internalID: -7942636251275132566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_30
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 708
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8864548d2b1f76b40800000000000000
+      internalID: 5433577225880684168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_31
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 724
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930f7391cc6204fa0800000000000000
+      internalID: -5818608060524400583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_32
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 690
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307be15891dd79f60800000000000000
+      internalID: 8041138761370613507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_33
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 724
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9a6068e36e5e00800000000000000
+      internalID: 1035374814042954498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_34
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 716
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdc4eac1e5fc0560800000000000000
+      internalID: 7281465047671688691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_35
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 662
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfaebc7ff1efb9a0800000000000000
+      internalID: -6215000473322213456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_36
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 676
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9b53ce0112fb080800000000000000
+      internalID: -9169573959736903263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_37
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 661
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd19515c52b04be0800000000000000
+      internalID: -1494998966715474448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_38
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 664
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e017df824248b9b0800000000000000
+      internalID: -5064224927329611544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_39
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 666
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac415b5a0e343e2c0800000000000000
+      internalID: -4403601378506369846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_40
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 662
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d5f715e7a9e040800000000000000
+      internalID: 4677454290392308062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_41
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 629
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef14622d80310a40800000000000000
+      internalID: 5332596816508887018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_42
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 651
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c388ec4e4ab7a47b0800000000000000
+      internalID: -5239239268348557252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_43
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 648
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e1419a686e9820800000000000000
+      internalID: 2926891614750237576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_44
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 640
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d71385215a70550800000000000000
+      internalID: 6127047316268481848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_45
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 644
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050288444640d6e40800000000000000
+      internalID: 5651177936112853072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_46
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 609
+        width: 75
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00ad660572575bc0800000000000000
+      internalID: -3794473498463854581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_47
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 638
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbe1a2e6cb2c2880800000000000000
+      internalID: -8634478252370302019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_48
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 628
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc961a886f8fa050800000000000000
+      internalID: 5814023323114708210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_49
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 632
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bcbccd92720ef60800000000000000
+      internalID: 8061486393744673618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_50
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 629
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17814840718b292d0800000000000000
+      internalID: -3273351570145404815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_51
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 591
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5e3249d986c3d0800000000000000
+      internalID: -3186708120105755118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_52
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 614
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f49098ed814cf0d0800000000000000
+      internalID: -3387760741941472007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_53
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 620
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7285092991f0a9790800000000000000
+      internalID: -7522683625061459929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_54
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 610
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e0cfa5cf8064cb0800000000000000
+      internalID: -4880203266258104702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_55
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 612
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988792d6d44f91f40800000000000000
+      internalID: 5699855416795166857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_56
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 501
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be12f04f06dc37f00800000000000000
+      internalID: 1113459349185831403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_57
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 532
+        width: 28
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b061e23f15934b8a0800000000000000
+      internalID: -6290339755394722293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_58
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 484
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7437d58f494ad0800000000000000
+      internalID: -2717553463881597939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_59
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 532
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c548f803adff60800000000000000
+      internalID: 8069785366238184308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_60
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 520
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a8b40b7052e8290800000000000000
+      internalID: -7886325182526420343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_61
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 522
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d642abbfcf177d6e0800000000000000
+      internalID: -1812854993624357779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 352
+        width: 716
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6048073251b97190800000000000000
+      internalID: -7964139499359289233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_63
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 492
+        width: 63
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b164aa7a2500090800000000000000
+      internalID: -8070359652178191537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_64
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 472
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb936e3b7ae2bb00800000000000000
+      internalID: 842993895320296428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_65
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 481
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195f04dead431a170800000000000000
+      internalID: 8187883712424244625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_66
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 484
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104165498bb78ded0800000000000000
+      internalID: -2389023569627180031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_67
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 473
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0a49a76bb47b80800000000000000
+      internalID: -8397881351242904449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_68
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 476
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8406667dde24430800000000000000
+      internalID: 3765833747826493641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_69
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 453
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f49ee0429cacf40800000000000000
+      internalID: 5749629030998036253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_70
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 378
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e0b28cc5c27ca90800000000000000
+      internalID: -7293812294496350608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_71
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 395
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37217936ffe5f6d20800000000000000
+      internalID: 3273939905102156403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_72
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 388
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef5c04285fabef20800000000000000
+      internalID: 3453046332406390760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_73
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 383
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d738c7bd3f1cb5b40800000000000000
+      internalID: 5430147028828849021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_74
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 239
+        width: 73
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa907af99a0d6a870800000000000000
+      internalID: 8693865557631895983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_75
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 319
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9221ee5eac761a30800000000000000
+      internalID: 4185669992045421215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_76
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 378
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1e568f740518e60800000000000000
+      internalID: 7962733886208074238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_77
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 360
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1752ea303b4d77ee0800000000000000
+      internalID: -1263307305128155791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_78
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 349
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8156303f9d8ff20800000000000000
+      internalID: 3456752351764093128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_79
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 223
+        width: 179
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd493e5201262100800000000000000
+      internalID: 82789937207397814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_80
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 341
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3798287edb70750800000000000000
+      internalID: 6271189808161846235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_81
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 346
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fac971c811072ca0800000000000000
+      internalID: -6041859169257403664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_82
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 341
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d33120af94be70800000000000000
+      internalID: 9130097854687466540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_83
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 321
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5c02e6c82df6520800000000000000
+      internalID: 2697606202403112405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_84
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 346
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a1ee54e5507a580800000000000000
+      internalID: -8816071843096159684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_85
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 319
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbc02e5d9ad51770800000000000000
+      internalID: 8581005034448276479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_86
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 319
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aafd66e796a4b0c0800000000000000
+      internalID: -4560837351283230047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_87
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 327
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499b36227c435c3d0800000000000000
+      internalID: -3187083131414660716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_88
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 333
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e0afd8d3e114030800000000000000
+      internalID: 3477093637030547008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_89
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 240
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8c56a23f10c7730800000000000000
+      internalID: 3998072713098152191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_90
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25689ef6249d04570800000000000000
+      internalID: 8448991780315694674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_91
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 290
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffccb1e3e58af2d0800000000000000
+      internalID: -3244133367775703048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_92
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 308
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c4d0219e0e8e840800000000000000
+      internalID: 5253696256962546813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_93
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 279
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57eee61bca031a340800000000000000
+      internalID: 4873229790060932725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_94
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 280
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290bf4d38013324c0800000000000000
+      internalID: -4313550106632671086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_95
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 294
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3131d1e6df458d3c0800000000000000
+      internalID: -4334621193893244141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_96
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 245
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6e4afb466dd4f40800000000000000
+      internalID: 5714459230403356401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_97
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 148
+        width: 727
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3516d7190669ce70800000000000000
+      internalID: 9135945508338406716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_98
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 208
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1299021f0e7eb90800000000000000
+      internalID: -7212548951971913261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_99
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 180
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd6f44d334dc5080800000000000000
+      internalID: -9197243019926999610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_100
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 196
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1923ec1ae90f1be50800000000000000
+      internalID: 6823499474553156241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_101
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 194
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab2d3d7857ab180800000000000000
+      internalID: -9098830870913828345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_102
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 192
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd4e11bb28e37a0800000000000000
+      internalID: -6395530680848818215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_103
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 168
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b158cfb2e5c29ab80800000000000000
+      internalID: -8383120448396950245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_104
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 177
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c343e4c7e434143d0800000000000000
+      internalID: -3224221853848554436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_105
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 188
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89719169bec3a86f0800000000000000
+      internalID: -681665411060000872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_106
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 167
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720a9f1f888529b0800000000000000
+      internalID: -5105524454262701453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_107
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 180
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c08fc3692c879ef0800000000000000
+      internalID: -101458357196455739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_108
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 172
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e987df0c812d4dc0800000000000000
+      internalID: -3653226837282682393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_109
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 169
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15128f62569608050800000000000000
+      internalID: 5800752203219607889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_110
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035a8854a873bb200800000000000000
+      internalID: 196812075732346160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_111
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 159
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01680eaafcb0561e0800000000000000
+      internalID: -2205343455975012848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_112
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 112
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438b495349876bf70800000000000000
+      internalID: 9202675466527619124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_113
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 131
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499cabfa9f28a5e00800000000000000
+      internalID: 1034283073341671828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_114
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 156
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e13e3015e1b2dae0800000000000000
+      internalID: -1525961726347038232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_115
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 160
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d3fddd9ccc4ac50800000000000000
+      internalID: 6675685715052805489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_116
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 151
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06a7fb3b428b1c70800000000000000
+      internalID: 8942884744714495500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_117
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 148
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce12ee4667537040800000000000000
+      internalID: 4644151737670835916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_118
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 140
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb95136443003ee0800000000000000
+      internalID: -1283522301545571329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_119
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 139
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8254bf0ff33adf650800000000000000
+      internalID: 6268345751390864680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_120
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 134
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccee55723364fbf0800000000000000
+      internalID: -291499007503569722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_121
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 130
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b38fd8eb28f2a80800000000000000
+      internalID: -8489423017632842962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_122
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 140
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9af26be48f3c8c70800000000000000
+      internalID: 8974617997559921310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_123
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 109
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e4b9a63aa2b5960800000000000000
+      internalID: 7591708478219701763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_124
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 96
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a501774e6585c60800000000000000
+      internalID: 7807085493296847485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_125
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 96
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799b3f4d4a2105210800000000000000
+      internalID: 1319575189976234391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_126
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 92
+        width: 42
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3fc60aa609cb310800000000000000
+      internalID: 1422170369974662130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_127
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 83
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c04d521ff3d26fb0800000000000000
+      internalID: -4655925972269449015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_128
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 84
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f8b0c0b944c2e0800000000000000
+      internalID: -2106477702206130425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_129
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 92
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daead4401c1b2a90800000000000000
+      internalID: -7337740311669839148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 88
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f563bbee1fd4830800000000000000
+      internalID: 4057164846976098156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_131
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 32
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d391c1433fcbf60800000000000000
+      internalID: 8051577638966869406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_132
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 82
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39184e7011f59e500800000000000000
+      internalID: 425976166514721171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_133
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 88
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9cf8179b7f77170800000000000000
+      internalID: 8176276024360683979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_134
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 64
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af1524290e98a00800000000000000
+      internalID: 759384930971154961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_135
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 65
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba364edce217aed0800000000000000
+      internalID: -2402931067628143940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_136
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 48
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c92b8998d91d450800000000000000
+      internalID: 6111839383616396399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_137
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 31
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4c14412f6646ce0800000000000000
+      internalID: -1412891193179519811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_138
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 37
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a66be77b78e6460800000000000000
+      internalID: 7236870873405614730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_139
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 55
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5cb8d23466bc300800000000000000
+      internalID: 273424641099023782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_140
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 57
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e899fb8e9188390800000000000000
+      internalID: -7815968665863876990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_141
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 40
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d67871bebe1aae00800000000000000
+      internalID: 1056690866941884113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_142
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 42
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e839d481eaf162d50800000000000000
+      internalID: 6712087127234810766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_143
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddce2644cf089aa0800000000000000
+      internalID: -6154151555136303655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_144
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 20
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dcf6fcf792b2e30800000000000000
+      internalID: 4479719883267886455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5-solid_145
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 13
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a37478e3400ae40800000000000000
+      internalID: 5665532997836159559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
